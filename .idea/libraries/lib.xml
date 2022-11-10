@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jasmin-2.4/lib/java_cup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jasmin-2.4/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jasmin-2.4/lib/ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
